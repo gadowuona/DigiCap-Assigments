@@ -1,1 +1,1 @@
-# DigiCap-Assigments
+# DigiCap-Assignments
